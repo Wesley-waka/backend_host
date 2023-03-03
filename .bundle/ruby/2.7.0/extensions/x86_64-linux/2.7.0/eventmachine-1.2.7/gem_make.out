@@ -1,0 +1,16 @@
+current directory: /home/wesley-waka/wewe/backend_host/.bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/home/wesley-waka/.rvm/rubies/ruby-2.7.4/bin/ruby -I /home/wesley-waka/.rvm/rubies/ruby-2.7.4/lib/ruby/site_ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /home/wesley-waka/wewe/backend_host/.bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230303-228563-c9h6cj sitelibdir\=./.gem.20230303-228563-c9h6cj clean
+
+current directory: /home/wesley-waka/wewe/backend_host/.bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230303-228563-c9h6cj sitelibdir\=./.gem.20230303-228563-c9h6cj
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/wesley-waka/wewe/backend_host/.bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230303-228563-c9h6cj sitelibdir\=./.gem.20230303-228563-c9h6cj install
+/usr/bin/install -m 0755 fastfilereaderext.so ./.gem.20230303-228563-c9h6cj
